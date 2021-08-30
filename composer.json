@@ -1,0 +1,12 @@
+{
+    "name": "monolog/monolog",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pavani",
+            "email": "katlatipavani666@gmail.com"
+        }
+    ],
+    "require": {}
+}
